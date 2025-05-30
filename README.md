@@ -40,7 +40,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 #### Overview
 
 <a href="http://www.github.com/SameerKumar24042004">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerKumar24042004&show_icons=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=1c1917&hide_border=true" alt="Sameer's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SameerKumar24042004&show_icons=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=1c1917&hide_border=true" />
 </a>
 
 #### Contributions
