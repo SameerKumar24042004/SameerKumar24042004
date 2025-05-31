@@ -1,5 +1,4 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sameer Kumar
-=============================================================================================================================
+# Hi there! 👋 I'm Sameer Kumar
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,35 +6,147 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SameerKumar24042004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SameerKumar24042004?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-<ul> 
-  <li>📚 B.Tech CSE Pre-final Year Student at VIT Bhopal</li>
-  <li>🛠️ Full Stack Developer with experience building web apps and platforms</li>
-  <li>⭐ 5 Star Java Programmer on HackerRank</li>
-  <li>🏆 Hackathon participant in events by Adobe, Walmart & more</li>
-  <li>💡 Co-developed projects like Vslot, VITsta360, and FAVAPAY (pitched to angel investors)</li>
-  <li>🧠 ML Intern @ Ineuron.ai – built an online assignment plagiarism detection model</li>
-</ul>
+---
 
-* 🌍  I'm based in India
-* 🎓  Pursuing B.Tech in Computer Science and Engineering @ VIT Bhopal
-* ✉️  Reach me at [sameerkumar56473@gmail.com](mailto:sameerkumar56473@gmail.com)
-* 🧠  Currently diving into ML, Web3, and system design
-* 🤝  Open to collaborating on innovative dev projects and ML integrations
-* ⚡  Love combining coding, creativity, and practical problem-solving!
+## 🚀 About Me
 
+🎓 **B.Tech CSE Pre-final Year Student** at VIT Bhopal  
+💻 **Full Stack Developer** with passion for building scalable web applications  
+⭐ **5 Star Java Programmer** on HackerRank  
+🏆 **Hackathon Enthusiast** - Participated in events by Adobe, Walmart & more  
+🧠 **ML Intern** @ Ineuron.ai  
 
-<br>
+### 🌟 Key Highlights
+- 💡 **Co-developed innovative projects**: Vslot, VITsta360, and FAVAPAY (pitched to angel investors)
+- 🔍 **Built ML solutions**: Online assignment plagiarism detection model
+- 🌍 **Based in**: India
+- 📧 **Contact**: [sameerkumar56473@gmail.com](mailto:sameerkumar56473@gmail.com)
 
-### Socials
+### 🎯 Currently Exploring
+- 🤖 Machine Learning & AI
+- ⛓️ Web3 Technologies
+- 🏗️ System Design & Architecture
+- 🔧 Open to collaborating on innovative dev projects and ML integrations
 
-  <a href="https://www.linkedin.com/in/sameer-kumar-095749249/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+### **Backend & Database**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+### **ML/AI**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SameerKumar24042004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKumar24042004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerKumar24042004&stroke=ffffff&background=1c1917&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerKumar24042004&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SameerKumar24042004&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+- 🌟 **5 Star Java Programmer** - HackerRank
+- 🏆 **Hackathon Participant** - Adobe, Walmart & more
+- 💼 **ML Intern** - Ineuron.ai
+- 🚀 **Startup Pitch** - FAVAPAY to angel investors
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-kumar-095749249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sameerkumar56473@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/SameerKumar24042004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-#### Contributions
+---
 
-<a href="http://www.github.com/SameerKumar24042004">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerKumar24042004&stroke=ffffff&background=1c1917&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=ffffff&si
+## 💼 Featured Projects
+
+### 🎰 **Vslot** - Gaming Platform
+> Interactive gaming platform with modern UI/UX
+
+### 📸 **VITsta360** - Social Media Platform  
+> 360-degree social media experience for VIT community
+
+### 💳 **FAVAPAY** - FinTech Solution
+> Payment solution pitched to angel investors
+
+### 🔍 **Plagiarism Detection Model**
+> ML-powered online assignment plagiarism detection system
+
+---
+
+<p align="center">
+  <i>⚡ "Love combining coding, creativity, and practical problem-solving!" ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
