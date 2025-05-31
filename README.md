@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SameerKumar24042004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SameerKumar24042004?label=Followers&style=social" alt="GitHub Followers" />
+ 
 </p>
 
 ---
@@ -92,17 +92,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerKumar24042004&stroke=ffffff&background=1c1917&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerKumar24042004&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SameerKumar24042004&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+
 
 - 🌟 **5 Star Java Programmer** - HackerRank
 - 🏆 **Hackathon Participant** - Adobe, Walmart & more
@@ -123,6 +119,9 @@
   <a href="https://github.com/SameerKumar24042004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://drive.google.com/file/d/1Ec24eyv_5TfkR78Zgd5-y3eNf3nJD5xC/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
 </p>
 
 ---
