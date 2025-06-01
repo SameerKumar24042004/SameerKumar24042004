@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sameer Kumar    📄 <a href="https://drive.google.com/file/d/1Ec24eyv_5TfkR78Zgd5-y3eNf3nJD5xC/view" target="_blank">  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+# Hi there! 👋 I'm Sameer Kumar    📄 <a href="https://drive.google.com/file/d/1Ec24eyv_5TfkR78Zgd5-y3eNf3nJD5xC/view?usp=sharing" target="_blank">  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
 
 
 
@@ -123,7 +123,7 @@
   <a href="https://github.com/SameerKumar24042004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Ec24eyv_5TfkR78Zgd5-y3eNf3nJD5xC/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1Ec24eyv_5TfkR78Zgd5-y3eNf3nJD5xC/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
 </a>
 </p>
