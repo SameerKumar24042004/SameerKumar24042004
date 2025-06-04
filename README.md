@@ -1,8 +1,4 @@
-# Hi there! 👋 I'm Sameer Kumar    📄 <a href="https://drive.google.com/file/d/1Ec24eyv_5TfkR78Zgd5-y3eNf3nJD5xC/view?usp=sharing" target="_blank">  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-
-
-
-
+# Hi there! 👋 I'm Sameer Kumar   
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
