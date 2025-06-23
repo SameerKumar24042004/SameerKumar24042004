@@ -119,7 +119,7 @@
   <a href="https://github.com/SameerKumar24042004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/SameerKumar24042004/Resume/blob/main/RESUME%20(8).pdfg" target="_blank">
+  <a href="https://github.com/SameerKumar24042004/Resume/blob/main/RESUME%20(8).pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
 </a>
 </p>
