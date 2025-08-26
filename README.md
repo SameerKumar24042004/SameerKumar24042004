@@ -25,7 +25,7 @@
 - 💡 **Co-developed innovative projects**: Vslot, VITsta360, and FAVAPAY (pitched to angel investors)
 - 🔍 **Built ML solutions**: Online assignment plagiarism detection model
 - 🌍 **Based in**: India
-- 📧 **Contact**: [sameerkumar56473@gmail.com](mailto:sameerkumar56473@gmail.com)
+- 📧 **Contact**: [sameerkumar202226@gmail.com](mailto:sameerkumar56473@gmail.com)
 
 ### 🎯 Currently Exploring
 - 🤖 Machine Learning & AI
